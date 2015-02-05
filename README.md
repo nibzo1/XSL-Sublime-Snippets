@@ -28,7 +28,7 @@ hoest - Jelle de Jong
 https://github.com/hoest/SublimeXSLT
 https://packagecontrol.io/packages/XSLT%20Snippets
 
-*Package did not work for me, so extracted the snippets and chenged a few things cheers lads :)
+*Package did not work for me, so extracted the snippets and changed a few things cheers lads :)
 
 
 ## Snippets
