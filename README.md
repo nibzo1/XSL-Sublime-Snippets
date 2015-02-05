@@ -3,6 +3,7 @@ Some helpful XSL snippets for Sublime Text 3 (has not been tested elsewhere)
 
 ##Lazy install - sorry no sublime-package
 Open a command prompt. i.e. gitBash.
+
 CD to.
 
 * OS X: ~/Library/Application Support/Sublime Text 3/Packages/User
