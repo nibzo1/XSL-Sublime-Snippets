@@ -5,9 +5,9 @@ Some helpful XSL snippets for Sublime Text 3 (has not been tested elsewhere)
 Open a command prompt. i.e. gitBash.
 CD to.
 
-* OS X: ~/Library/Application Support/Sublime Text 3
-* Windows: %APPDATA%\Sublime Text 3
-* Linux: ~/.config/sublime-text-3
+* OS X: ~/Library/Application Support/Sublime Text 3/Packages/User
+* Windows: %APPDATA%\Sublime Text 3\Packages\User
+* Linux: ~/.config/sublime-text-3/Packages/User
 
 clone the repo
 
