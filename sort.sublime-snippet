@@ -2,6 +2,6 @@
   <content><![CDATA[
 <xsl:sort select="${1}"${2: data-type="${3}"}${4: order="${5}"}${6: case-order="${7}"}${8: lang="${9}"} />]]></content>
   <tabTrigger>sort</tabTrigger>
-  <scope>text.xml.xsl</scope>
+  <scope>text.xml</scope>
   <description>sort</description>
 </snippet>

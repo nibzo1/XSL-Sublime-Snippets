@@ -4,6 +4,6 @@
 	<xsl:with-param name="${5}" select="${6}"/>
 </xsl:apply-templates>]]></content>
   <tabTrigger>apw</tabTrigger>
-  <scope>text.xml.xsl</scope>
+  <scope>text.xml</scope>
   <description>apply-templates (with-param)</description>
 </snippet>

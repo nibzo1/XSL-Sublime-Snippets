@@ -2,6 +2,6 @@
   <content><![CDATA[
 <xsl:processing-instruction name="{$1}">${0}</xsl:processing-instruction>]]></content>
   <tabTrigger>proc</tabTrigger>
-  <scope>text.xml.xsl</scope>
+  <scope>text.xml</scope>
   <description>processing-instruction</description>
 </snippet>

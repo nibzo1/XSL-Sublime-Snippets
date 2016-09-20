@@ -2,6 +2,6 @@
   <content><![CDATA[
 <xsl:apply-imports />]]></content>
   <tabTrigger>ai</tabTrigger>
-  <scope>text.xml.xsl</scope>
+  <scope>text.xml</scope>
   <description>apply-imports</description>
 </snippet>

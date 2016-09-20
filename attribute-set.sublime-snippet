@@ -2,6 +2,6 @@
   <content><![CDATA[
 <xsl:attribute-set name="${1}"${2: use-attribute-sets="${3}"}>${4}</xsl:attribute-set>]]></content>
   <tabTrigger>attrs</tabTrigger>
-  <scope>text.xml.xsl</scope>
+  <scope>text.xml</scope>
   <description>attribute-set</description>
 </snippet>

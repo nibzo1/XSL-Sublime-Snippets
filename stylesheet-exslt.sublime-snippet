@@ -11,6 +11,6 @@
 </xsl:stylesheet>
 ]]></content>
   <tabTrigger>style-exslt</tabTrigger>
-  <scope>text.xml.xsl</scope>
+  <scope>text.xml</scope>
   <description>stylesheet (exslt)</description>
 </snippet>

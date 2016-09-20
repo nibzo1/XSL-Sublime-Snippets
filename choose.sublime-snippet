@@ -4,6 +4,6 @@
 	${0}
 </xsl:choose>]]></content>
   <tabTrigger>ch</tabTrigger>
-  <scope>text.xml.xsl</scope>
+  <scope>text.xml</scope>
   <description>choose</description>
 </snippet>

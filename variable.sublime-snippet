@@ -2,6 +2,6 @@
   <content><![CDATA[
 <xsl:variable name="${1}"${2: select="${3}"} />]]></content>
   <tabTrigger>var</tabTrigger>
-  <scope>text.xml.xsl</scope>
+  <scope>text.xml</scope>
   <description>variable</description>
 </snippet>

@@ -4,6 +4,6 @@
 	${0}
 </xsl:template>]]></content>
   <tabTrigger>tm</tabTrigger>
-  <scope>text.xml.xsl</scope>
+  <scope>text.xml</scope>
   <description>template (match)</description>
 </snippet>

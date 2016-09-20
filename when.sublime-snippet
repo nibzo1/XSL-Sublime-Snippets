@@ -2,6 +2,6 @@
   <content><![CDATA[
 <xsl:when test="${1}">${0}</xsl:when>]]></content>
   <tabTrigger>wh</tabTrigger>
-  <scope>text.xml.xsl</scope>
+  <scope>text.xml</scope>
   <description>when</description>
 </snippet>

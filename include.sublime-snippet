@@ -2,6 +2,6 @@
   <content><![CDATA[
 <xsl:include href="${1}" />]]></content>
   <tabTrigger>inc</tabTrigger>
-  <scope>text.xml.xsl</scope>
+  <scope>text.xml</scope>
   <description>include</description>
 </snippet>

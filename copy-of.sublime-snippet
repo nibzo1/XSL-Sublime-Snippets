@@ -2,6 +2,6 @@
   <content><![CDATA[
 <xsl:copy-of select="${1}" />]]></content>
   <tabTrigger>cpo</tabTrigger>
-  <scope>text.xml.xsl</scope>
+  <scope>text.xml</scope>
   <description>copy-of</description>
 </snippet>

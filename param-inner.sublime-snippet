@@ -2,6 +2,6 @@
   <content><![CDATA[
 <xsl:param name="${1}">${0}</xsl:param>]]></content>
   <tabTrigger>pari</tabTrigger>
-  <scope>text.xml.xsl</scope>
+  <scope>text.xml</scope>
   <description>param (inner content)</description>
 </snippet>

@@ -10,6 +10,6 @@
 	</xsl:template>
 </xsl:stylesheet>]]></content>
   <tabTrigger>style</tabTrigger>
-  <scope>text.xml.xsl</scope>
+  <scope>text.xml</scope>
   <description>stylesheet</description>
 </snippet>

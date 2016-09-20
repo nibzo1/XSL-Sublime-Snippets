@@ -5,6 +5,6 @@
 	${0}
 </xsl:document>]]></content>
   <tabTrigger>doci</tabTrigger>
-  <scope>text.xml.xsl</scope>
+  <scope>text.xml</scope>
   <description>document (inner content)</description>
 </snippet>

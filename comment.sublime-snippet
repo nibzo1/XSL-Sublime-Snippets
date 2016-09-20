@@ -2,6 +2,6 @@
   <content><![CDATA[
 <xsl:comment>${0}</xsl:comment>]]></content>
   <tabTrigger>com</tabTrigger>
-  <scope>text.xml.xsl</scope>
+  <scope>text.xml</scope>
   <description>comment</description>
 </snippet>

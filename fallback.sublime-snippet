@@ -2,6 +2,6 @@
   <content><![CDATA[
 <xsl:fallback>${0}</xsl:fallback>]]></content>
   <tabTrigger>fb</tabTrigger>
-  <scope>text.xml.xsl</scope>
+  <scope>text.xml</scope>
   <description>fallback</description>
 </snippet>

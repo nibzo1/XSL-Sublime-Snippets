@@ -2,6 +2,6 @@
   <content><![CDATA[
 <xsl:preserve-space elements="${1}" />]]></content>
   <tabTrigger>pres</tabTrigger>
-  <scope>text.xml.xsl</scope>
+  <scope>text.xml</scope>
   <description>preserve-space</description>
 </snippet>

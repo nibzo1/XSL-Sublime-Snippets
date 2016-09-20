@@ -2,6 +2,6 @@
   <content><![CDATA[
 <xsl:apply-templates${1: select="${2}"}${3: mode="${4}"} />]]></content>
   <tabTrigger>ap</tabTrigger>
-  <scope>text.xml.xsl</scope>
+  <scope>text.xml</scope>
   <description>apply-templates</description>
 </snippet>

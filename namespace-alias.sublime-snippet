@@ -2,6 +2,6 @@
   <content><![CDATA[
 <xsl:namespace-alias stylesheet-prefix="${1}" result-prefix="${2}" />]]></content>
   <tabTrigger>nam</tabTrigger>
-  <scope>text.xml.xsl</scope>
+  <scope>text.xml</scope>
   <description>namespace-alias</description>
 </snippet>

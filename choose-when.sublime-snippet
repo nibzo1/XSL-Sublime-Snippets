@@ -9,6 +9,6 @@
 	</xsl:otherwise>}
 </xsl:choose>]]></content>
   <tabTrigger>cw</tabTrigger>
-  <scope>text.xml.xsl</scope>
+  <scope>text.xml</scope>
   <description>choose when</description>
 </snippet>

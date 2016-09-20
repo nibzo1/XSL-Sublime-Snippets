@@ -4,6 +4,6 @@
 	${0}
 </xsl:for-each>]]></content>
   <tabTrigger>for</tabTrigger>
-  <scope>text.xml.xsl</scope>
+  <scope>text.xml</scope>
   <description>for-each</description>
 </snippet>

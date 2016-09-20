@@ -2,6 +2,6 @@
   <content><![CDATA[
 <xsl:text${1: disable-output-escaping="${2}"}>${0}</xsl:text>]]></content>
   <tabTrigger>text</tabTrigger>
-  <scope>text.xml.xsl</scope>
+  <scope>text.xml</scope>
   <description>text (inner content)</description>
 </snippet>

@@ -2,6 +2,6 @@
   <content><![CDATA[
 <xsl:text />]]></content>
   <tabTrigger>txt</tabTrigger>
-  <scope>text.xml.xsl</scope>
+  <scope>text.xml</scope>
   <description>text (empty)</description>
 </snippet>
